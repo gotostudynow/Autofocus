@@ -14,7 +14,8 @@ def variance_of_laplacian(image):
 # construct the argument parse and parse the arguments
 
 
-
+//
+//comment 2
 # loop over the input images
 for imagePath in paths.list_images(args["images"]):
 	# load the image, convert it to grayscale, and compute the
